@@ -1,0 +1,4 @@
+   threespacesbefore
+      sixspacesbefore
+ one two three fourspacestotal
+zerobefore plusoneplusthreeafterisfourtotal   
